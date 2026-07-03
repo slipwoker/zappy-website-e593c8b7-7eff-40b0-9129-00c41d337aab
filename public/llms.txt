@@ -1,0 +1,87 @@
+# POPiX — Generative Engine Optimization Map
+
+> A children's birthday party entertainment business offering fun and festive experiences. The service includes classic carnival-style treats and attractions such as cotton candy (שערות סבתא), popcorn, and hot dog stands, combined with birthday party entertainment activities. The brand has a joyful, colorful, and nostalgic fair/carnival atmosphere that appeals to families and kids.
+
+---
+
+## Pages
+
+### בית
+https://popix-e593c8b7.zappy5.app
+מחפשים אירועים לילדים בסוף השבוע? POPiX מביאה לכם קרנבל צבעוני עם שערות סבתא, פופקורן ודוכני הפעלה משמחים. הפכו כל אירוע לחוויה משפחתית בלתי נשכחת!
+
+### שירותים
+https://popix-e593c8b7.zappy5.app/services
+מגוון שירותי הפעלה לילדים: עמדות שערות סבתא מתוקות, דוכני נקניקיות קלאסיים ומשחקי קרנבל סוחפים. בואו להפיק אירוע כיפי ומלא צבע שילדים והורים אוהבים!
+
+### אודות
+https://popix-e593c8b7.zappy5.app/about
+POPiX נולדה מאהבה לירידים נוסטלגיים ושמחת ילדים. אנו מתמחים בהפקת אירועים צבעוניים עם פופקורן טרי, שערות סבתא אווריריות ודוכני נקניקיות מפנקים. הכירו את הצוות!
+
+### גלריה
+https://popix-e593c8b7.zappy5.app/gallery
+צפו בתמונות מאירועי הקרנבל שלנו: חיוכים מתוקים, דוכני פופקורן צבעוניים והרבה אקשן משפחתי. קבלו השראה לאירוע המושלם עם POPiX וכל הפעילויות לילדים בסביבה!
+
+### צור קשר
+https://popix-e593c8b7.zappy5.app/contact
+מוכנים לאירוע ילדים בלתי נשכח? צרו קשר עם POPiX עוד היום להזמנת דוכני נקניקיות, שערות סבתא ופופקורן לאירוע הקרוב. הפכו כל מפגש לחגיגה קרנבלית!
+
+### תודה שפניתם אלינו | POPiX
+https://popix-e593c8b7.zappy5.app/thank-you
+POPiX - תודה שפניתם אלינו | POPiX
+
+## Legal & Policy
+
+### Privacy Policy
+https://popix-e593c8b7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://popix-e593c8b7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://popix-e593c8b7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://popix-e593c8b7.zappy5.app/contact
+- Endpoint: https://popix-e593c8b7.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About POPiX
+A children's birthday party entertainment business offering fun and festive experiences. The service includes classic carnival-style treats and attractions such as cotton candy (שערות סבתא), popcorn, and hot dog stands, combined with birthday party entertainment activities. The brand has a joyful, colorful, and nostalgic fair/carnival atmosphere that appeals to families and kids.
+
+## Target Audience
+- משפחות עם ילדים, הורים המחפשים הפעלות לימי הולדת
+- משפחות עם ילדים
+- מתכנני ימי הולדת
+- בתי ספר וגני ילדים
+
+## Industry
+Children's Entertainment & Events
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://popix-e593c8b7.zappy5.app/sitemap.xml
+- Robots: https://popix-e593c8b7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://popix-e593c8b7.zappy5.app/llms-full.txt
